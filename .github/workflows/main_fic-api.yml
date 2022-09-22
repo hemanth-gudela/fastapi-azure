@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'fic-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6430C77BA2C346178F401FA084D2A05A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2F1122AB9A04E0EBFCD59152BEFD7E7 }}
